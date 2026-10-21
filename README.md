@@ -1,7 +1,8 @@
 # Icinga IDO Reports
 
 [![PHP Support](https://img.shields.io/badge/php-%3E%3D%207.0-777BB4?logo=PHP)](https://php.net/)
-[![PHP Tests](https://github.com/eetwas/icingaweb2-module-idoreports/actions/workflows/php.yml/badge.svg)](https://github.com/eetwas/icingaweb2-module-idoreports/actions/workflows/php.yml)[![Github Tag](https://img.shields.io/github/tag/Icinga/icingaweb2-module-idoreports.svg)](https://github.com/Icinga/icingaweb2-module-idoreports)
+[![PHP Tests](https://github.com/eetwas/icingaweb2-module-idoreports/actions/workflows/php.yml/badge.svg)](https://github.com/eetwas/icingaweb2-module-idoreports/actions/workflows/php.yml)
+[![Github Tag](https://img.shields.io/github/tag/Icinga/icingaweb2-module-idoreports.svg)](https://github.com/Icinga/icingaweb2-module-idoreports)
 
 ![Icinga Logo](https://icinga.com/wp-content/uploads/2014/06/icinga_logo.png)
 
