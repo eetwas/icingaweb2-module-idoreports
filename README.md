@@ -14,3 +14,4 @@ database (IDO).
 ## Documentation
 
 * [Installation](doc/02-Installation.md)
+* working with php 8.2
